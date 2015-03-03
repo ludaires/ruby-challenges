@@ -26,6 +26,7 @@ class Blog
       puts blog_post.tittle
       puts blog_post.created_at
       puts blog_post.content
+      puts blog_post.author
     end
   end
 
